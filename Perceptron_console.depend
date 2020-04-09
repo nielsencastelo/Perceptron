@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1461677374 source:d:\mobile\perceptron visual\perceptron_console\main.cpp
+	"Perceptron.h"
+
+1461677467 d:\mobile\perceptron visual\perceptron_console\perceptron.h
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1461677669 source:d:\mobile\perceptron visual\perceptron_console\perceptron.cpp
+	"Perceptron.h"
+
